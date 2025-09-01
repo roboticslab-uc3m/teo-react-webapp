@@ -1,5 +1,9 @@
 # Interfaz REACT para TEO
 
+## Proyecto original
+
+Ángel Gilabert de la Encina, Desarrollo de una interfaz web en React y ROS 2 para el robot humanoide TEO, Trabajo Fin de Grado, Universidad Carlos III de Madrid, 2025. https://github.com/angelGilabert/TFG_Interfaz-ROS2-REACT-para-TEO
+
 ## Pasos a seguir
 
 ### Comandos a ejecutar antes de iniciar:
@@ -65,4 +69,19 @@ sudo apt-get install ros-humble-web-video-server
 
 # Ejecución servidor
 ros2 run web_video_server web_video_server
+```
+
+## Cómo citar
+
+Bartek Łukawski, Mercedes Rebollo, Ángel Gilabert, Juan G. Victores, Carlos Balaguer, and Alberto Jardón. YARP Cartesian controller layers over ROS 2 for teleoperation and web applications. In *XLVI Jornadas de Automática*. Universidade da Coruña, 2025.
+
+```bibtex
+@inproceedings{lukawski2025jjaa,
+    author    = {{\L}ukawski, Bartek and Mercedes, Rebollo and Gilabert, Ángel and Victores, Juan G. and Balaguer, Carlos and Jardón, Alberto},
+    title     = {{YARP} {Cartesian} controller layers over {ROS} 2 for teleoperation and web applications},
+    booktitle = {XLVI Jornadas de Automática},
+    year      = {2025},
+    publisher = {Universidade da Coruña},
+    doi       = {10.17979/ja-cea.2025.46.12252},
+}
 ```
