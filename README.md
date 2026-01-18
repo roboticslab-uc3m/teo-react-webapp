@@ -73,7 +73,7 @@ ros2 run web_video_server web_video_server
 
 ## Cómo citar
 
-Bartek Łukawski, Mercedes Rebollo, Ángel Gilabert, Juan G. Victores, Carlos Balaguer, and Alberto Jardón. YARP Cartesian controller layers over ROS 2 for teleoperation and web applications. In *XLVI Jornadas de Automática*. Universidade da Coruña, 2025.
+Bartek Łukawski, Mercedes Rebollo, Ángel Gilabert, Juan G. Victores, Carlos Balaguer, and Alberto Jardón. YARP Cartesian controller layers over ROS 2 for teleoperation and web applications. In *XLVI Jornadas de Automática*. Universidade da Coruña, 2025. DOI: [10.17979/ja-cea.2025.46.12252](https://doi.org/10.17979/ja-cea.2025.46.12252)
 
 ```bibtex
 @inproceedings{lukawski2025jjaa,
