@@ -85,3 +85,7 @@ Bartek Łukawski, Mercedes Rebollo, Ángel Gilabert, Juan G. Victores, Carlos Ba
     doi       = {10.17979/ja-cea.2025.46.12252},
 }
 ```
+
+## Véase también
+
+- [roboticslab-uc3m/gofa-react-webapp](https://github.com/roboticslab-uc3m/gofa-react-webapp)
